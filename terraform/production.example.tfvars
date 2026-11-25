@@ -1,0 +1,5 @@
+aws_region       = "us-east-1"
+project_name     = "product-catalog"
+mail_from        = "catalog@example.com"
+sales_inbox      = "sales@example.com"
+ses_identity_arn = "arn:aws:ses:us-east-1:123456789012:identity/example.com"
